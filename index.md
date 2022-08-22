@@ -8,3 +8,8 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+- [ ] Learn github
+- [ ] Learn coding
+- [ ] Take over world
+- [ ] Go to bed
